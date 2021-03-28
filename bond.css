@@ -1,0 +1,165 @@
+body {
+	background-color: darkred;
+	text-align: center;
+	margin: 0px;
+	font-size: 100%;
+}
+			
+div.NavBar {
+	font-size: 130%;
+    padding: 0.5%;
+    float: left;
+    font-style: italic;
+}
+
+div.banner {
+    height: 500px;
+    background: url("imgs/BondBanner.jpg") no-repeat center;
+    background-size: cover;
+}
+			
+h1 {
+	background-color: indianred;
+	font-size: 310%;
+	border: 5px solid;
+	border-radius: 2rem;
+	width: 31%;
+	margin: auto;
+}
+
+h2 {
+	background-color: indianred;
+	font-size: 50px;
+	border: 5px solid;
+	border-radius: 2rem;
+	width: 27%;
+	margin: auto;
+}
+
+h3 {
+	background-color: indianred;
+	font-size: 50px;
+	border: 5px solid;
+	border-radius: 2rem;
+	width: 25%;
+	margin: auto;
+}
+
+h4 {
+	color: lightsteelblue;
+	font-weight: bolder;
+	font-size: 120px;
+	font-variant: small-caps;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	animation-duration: 2s;
+    animation-name: glow;
+    animation-iteration-count: infinite;
+    background-color: indianred;
+    margin: auto;
+	border: 5px solid black;
+	border-radius: 1rem;
+	width: 41%;
+}
+
+h5 {
+	font-size: 20px;
+	text-align: center;
+	margin: auto;
+	font-style: italic;
+}
+
+h6 {
+	text-align: left;
+	color: silver;
+	margin-left: 10px;
+	font-size: 20px;
+	font-style: bolder;
+}
+
+img {
+	border: 5px solid
+}
+
+@keyframes glow {
+    from {
+      text-shadow: 0 0 20px #2d9da9;
+    }
+    to {
+      text-shadow: 0 0 30px #34b3c1, 0 0 10px #4dbbc7;
+    }
+}
+
+iframe {
+   	display: block;
+   	margin: auto;
+}
+
+.introduction {
+	background-color: indianred;
+	width: 45%;
+	margin: auto;
+	border: 5px solid;
+	border-radius: 1rem;
+	font-size: 20px;
+}
+
+.audio {
+	background-color: indianred;
+	border: 5px solid black;
+	border-radius: 3rem;
+	padding: 10px;
+	width: 16%;
+	margin-left: 41%;
+}
+
+.row {
+	display: flex;
+}
+
+.row1 {
+	display: flex;
+	color: lightsteelblue;
+	font-weight: bolder;
+	font-size: 32px;
+	font-variant: small-caps;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+			
+.row2 {
+	display: flex;
+	color: lightsteelblue;
+	font-weight: bolder;
+	font-size: 32px;
+	font-variant: small-caps;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+}
+			
+.card {
+    background-color: indianred;
+	padding: 15px;
+	margin: auto;
+	border: 5px solid black;
+	border-radius: 1rem;
+}
+
+p.MovieTitle {
+	color: lightsteelblue;
+	font-weight: bold;
+	font-size: 28px;
+	font-family: Courier New, monospace;
+}
+
+.FilmList {
+	text-align: left;
+	padding-left: 18%;
+	font-size: 20px;
+}
+
+.outro {
+	background-color: indianred;
+	padding: 15px;
+	width: 46%;
+	margin: auto;
+	border: 5px solid black;
+	border-radius: 1rem;
+}
