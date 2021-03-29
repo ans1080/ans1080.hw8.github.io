@@ -50,7 +50,7 @@ h4 {
 	font-weight: bolder;
 	font-size: 120px;
 	font-variant: small-caps;
-	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
 	animation-duration: 2s;
     animation-name: glow;
     animation-iteration-count: infinite;
@@ -73,7 +73,7 @@ h6 {
 	color: silver;
 	margin-left: 10px;
 	font-size: 20px;
-	font-style: bolder;
+	font-weight: bold;
 }
 
 img {
@@ -122,7 +122,7 @@ iframe {
 	font-weight: bolder;
 	font-size: 32px;
 	font-variant: small-caps;
-	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
 }
 			
 .row2 {
@@ -131,7 +131,7 @@ iframe {
 	font-weight: bolder;
 	font-size: 32px;
 	font-variant: small-caps;
-	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-family: "Brush Script MT", "Brush Script Std", cursive;
 }
 			
 .card {
@@ -146,7 +146,7 @@ p.MovieTitle {
 	color: lightsteelblue;
 	font-weight: bold;
 	font-size: 28px;
-	font-family: Courier New, monospace;
+	font-family: "Courier New", monospace;
 }
 
 .FilmList {
